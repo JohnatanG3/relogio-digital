@@ -24,4 +24,4 @@ Se você quiser contribuir com este projeto, siga estas etapas:
 
 ## Autor
 
-Desenvolvido por [JohnatanG3](https://github.com/SeuUsuario).
+Desenvolvido por [JohnatanG3](https://github.com/JohnatanG3).
